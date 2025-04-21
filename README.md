@@ -32,7 +32,7 @@ db-monitoring/
 │       └── deploy.yml       # GitHub Actions pipeline for deployment
 │
 ├── README.md                # Project documentation
-
+```
 ## Steps to integrate with SQL server
 
 1. Install the agent
